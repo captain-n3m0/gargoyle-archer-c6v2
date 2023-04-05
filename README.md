@@ -13,3 +13,6 @@ Compiled Gargoyle image for TP-Link Archer C6v2
 * these directions. YOU are choosing to make these modifications, and if
 * you point your finger at me for messing up your device, I will Laugh at you.
 *
+
+# Documentation
+https://www.gargoyle-router.com/wiki/doku.php?id=developer_documentation
