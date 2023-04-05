@@ -1,7 +1,7 @@
 # gargoyle-archer-c6v2
 Compiled Gargoyle image for TP-Link Archer C6v2
 
-![alt text](https://github.com/captain-n3m0/gargoyle-archerc6v2/blob/main/resources/gargoyle.png)
+![alt text](https://github.com/captain-n3m0/gargoyle-archer-c6v2/blob/main/resources/gargoyle.png)
 
 
 
